@@ -1,0 +1,3 @@
+drop database bd_Mystical-Shoes;
+create database bd_Mystical-Shoes;
+use bd_Mystical-Shoes;
